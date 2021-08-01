@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Tindog
+- 🔭 I’m currently working on <a href="https://github.com/alishaac/Tindog.git">Tindog</a>
 - 🌱 I’m currently learning Web-Development
 - 👯 I’m looking to collaborate on Frontend web development
 - 🤔 I’m looking for help with Backend web development
