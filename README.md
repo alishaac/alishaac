@@ -4,8 +4,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on <a href="https://github.com/alishaac/Game-Simon.git">Game-Simon</a>
-- 🌱 I’m currently learning Web-Development ✌✌
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning Backend-web-Development and DSA ✌✌
 - 👯 I’m looking to collaborate on Frontend web development
 - 🤔 I’m looking for help with Backend web development
 - 📫 How to reach me: calisha.1903@gmail.com
