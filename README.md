@@ -3,7 +3,7 @@
 <h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Alisha Chauhan </h2>
 
 ## About Me
-
+![](https://komarev.com/ghpvc/?username=alishaac&color=ff69b4)
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Backend-web-Development and DSA ✌✌
 - 👯 I’m looking to collaborate on Frontend web development
