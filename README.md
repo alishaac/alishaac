@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with Backend web development
 - 📫 How to reach me: calisha.1903@gmail.com
 - 😄 Pronouns: She/Her
-- 😝 Funfact : 🤔typing....
+- 😝 Funfact : 🤔typing..
 
 
 ## Languages and Tools I use:
