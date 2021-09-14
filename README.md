@@ -6,11 +6,11 @@
 ![](https://komarev.com/ghpvc/?username=alishaac&color=ff69b4)
 - 🔭 I’m currently working on API's
 - 🌱 I’m currently learning Backend-web-Development and DSA 
-- 👯 I’m looking to collaborate on Frontend web development
-- 🤔 I’m looking for help with Backend web development
+- 👯 I’m looking to collaborate on Frontend web dev
+- 🤔 I’m looking for help with Backend web dev
 - 📫 How to reach me: calisha.1903@gmail.com
 - 😄 Pronouns: She/Her
-- 😝 Funfact : 🤔typing..
+- 😝 Funfact : 🤔typing.....
 
 
 ## Languages and Tools I use:
