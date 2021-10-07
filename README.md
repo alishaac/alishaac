@@ -4,7 +4,7 @@
 
 ## About Me
 ![](https://komarev.com/ghpvc/?username=alishaac&color=ff69b4)
-- 🔭 I’m currently working on EJS
+- 🔭 I’m currently working on Blog Website and todoList website
 - 🌱 I’m currently learning Backend-web-Development and DSA 
 - 👯 I’m looking to collaborate on Frontend web dev
 - 🤔 I’m looking for help with Backend web dev
