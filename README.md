@@ -2,9 +2,9 @@
 
 <h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Alisha Chauhan </h2>
 
-## About Me
+## About Me <img src= "https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align = "right" height = "300" width = "400">
 ![](https://komarev.com/ghpvc/?username=alishaac&color=ff69b4)
-- 🔭 I’m currently working on Database
+- 🔭 I’m currently working on Database  
 - 🌱 I’m currently learning Backend-web-Development and DSA 
 - 👯 I’m looking to collaborate on Frontend web dev
 - 🤔 I’m looking for help with Backend web dev
